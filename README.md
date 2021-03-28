@@ -18,10 +18,21 @@ The USGS is responsible for providing scientific data about natural hazards, the
 
 <hr>
 
-### Action
+### Action<br>
+I used the following tools to create my map displaying earthquakes that took place in the last 30 days.<br>
+1.<br>
+2.<br>
+3.<br>
+4.<br>
+The challenge was creating three functions for the following,<br> 
+1. Function 1 for styling.<br>
+2. Function 2 for color.<br>
+3. Function 3 for radii of each earthquake.<br>
+
 <hr>
 
-### Results
+### Results<br>
+
 <hr>
 
 ![Hab's Map](https://github.com/llhabers/leaflet_challenge/blob/main/Leaflet-Step-1/Images/7-Hab_Map.png)
