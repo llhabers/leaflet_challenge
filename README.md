@@ -24,3 +24,5 @@ The USGS is responsible for providing scientific data about natural hazards, the
 
 ### Results
 <hr>
+
+![Hab's Map](https://github.com/llhabers/leaflet_challenge/blob/main/Leaflet-Step-1/Images/7-Hab_Map.png)
