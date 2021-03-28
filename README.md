@@ -6,9 +6,13 @@
 <hr>
 
 ### Situation
+<hr>
 
 ### Task
+<hr>
 
 ### Action
+<hr>
 
 ### Results
+<hr>
