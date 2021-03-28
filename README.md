@@ -20,10 +20,14 @@ The USGS is responsible for providing scientific data about natural hazards, the
 
 ### Action<br>
 I used the following tools to create my map displaying earthquakes that took place in the last 30 days.<br>
-1.<br>
-2.<br>
-3.<br>
-4.<br>
+
+1. Map function - Creating my map by calling on my "id=map"<br>
+2. Query the url from the USGS website<br>
+3. Legend<br>
+4. Street Map<br>
+5. Colors<br>
+6. Popup<br>
+
 The challenge was creating three functions for the following,<br> 
 1. Function 1 for styling.<br>
 2. Function 2 for color.<br>
